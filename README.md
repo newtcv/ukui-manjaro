@@ -1,7 +1,7 @@
 <h2 align="center"><u>ukui-manjaro</u></h2>
 
 ![ukui-manjaro Readme](images/banner.png)
-<h4 align="center"> Generate beautiful Repository Readme </h4>
+<h4 align="center"> ukui-manjaro Repository Readme </h4>
 
 <p align="center">
 <br>
