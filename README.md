@@ -9,6 +9,4 @@
 
 ### [+] Description
 
-Repository created to generate a manjaro iso with UKUI desktop for everyone
-
-
+Repository created to generate a manjaro iso with UKUI desktop for everyone, every first day of the month
