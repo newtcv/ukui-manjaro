@@ -49,7 +49,6 @@ jobs:
       - name: image-build-upload
         uses: Manjaro/manjaro-iso-action@main
         with:
-          iso-profiles-repo: https://github.com/bittin/iso-profiles-1
           edition: ${{ matrix.edition }}
           branch: ${{ matrix.branch }}
           scope: ${{ matrix.scope }}
