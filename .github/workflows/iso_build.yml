@@ -55,7 +55,7 @@ jobs:
           kernel: ${{ matrix.kernel }}
           release-tag: ${{ needs.prepare-release.outputs.release_tag }}
           additional-trusted-gpg: ${{ secrets.GPG_KEYID }}
-          iso-profiles-repo: "https://gitlab.manjaro.org/profiles-and-settings/iso-profiles"
+          iso-profiles-repo: "https://gitlab.manjaro.org/boredland/iso-profiles"
       - name: rollback
         if: ${{ cancelled() }}
         run: |
